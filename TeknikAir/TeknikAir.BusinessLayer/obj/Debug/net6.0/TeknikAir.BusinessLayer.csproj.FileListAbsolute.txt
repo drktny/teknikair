@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\bin\Debug\net6.0\TeknikAir.BusinessLayer.deps.json
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\bin\Debug\net6.0\TeknikAir.BusinessLayer.dll
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\bin\Debug\net6.0\TeknikAir.BusinessLayer.pdb
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\obj\Debug\net6.0\TeknikAir.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\obj\Debug\net6.0\TeknikAir.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\obj\Debug\net6.0\TeknikAir.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\obj\Debug\net6.0\TeknikAir.BusinessLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\obj\Debug\net6.0\TeknikAir.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\obj\Debug\net6.0\TeknikAir.BusinessLayer.dll
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\obj\Debug\net6.0\refint\TeknikAir.BusinessLayer.dll
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\obj\Debug\net6.0\TeknikAir.BusinessLayer.pdb
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.BusinessLayer\obj\Debug\net6.0\ref\TeknikAir.BusinessLayer.dll

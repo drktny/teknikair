@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\bin\Debug\net6.0\TeknikAir.DataAccess.deps.json
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\bin\Debug\net6.0\TeknikAir.DataAccess.dll
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\bin\Debug\net6.0\TeknikAir.DataAccess.pdb
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\TeknikAir.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\TeknikAir.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\TeknikAir.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\TeknikAir.DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\TeknikAir.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\TeknikAir.DataAccess.dll
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\refint\TeknikAir.DataAccess.dll
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\TeknikAir.DataAccess.pdb
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\ref\TeknikAir.DataAccess.dll
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\bin\Debug\net6.0\TeknikAir.DataAccess.runtimeconfig.json
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\TeknikAir.DataAccess.genruntimeconfig.cache
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\bin\Debug\net6.0\TeknikAir.Entity.dll
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\bin\Debug\net6.0\TeknikAir.Entity.pdb
+C:\Users\User\Desktop\teknikair\TeknikAir\TeknikAir.DataAccess\obj\Debug\net6.0\TeknikAir.DataAccess.csproj.CopyComplete

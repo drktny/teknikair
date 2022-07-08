@@ -1,0 +1,26 @@
+﻿@using TeknikAir.Entity.Entity
+@model List<Partner>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_HomeLayout.cshtml";
+}
+
+<h1>Home/Index</h1>
+<section id="clients" class="clients">
+
+    <div class="container" data-aos="zoom-in">
+
+    <div class="clients-slider swiper">
+        <div class="swiper-wrapper align-items-center">
+                @foreach(var item in Model)
+                {
+                    <div class="swiper-slide"><img src="@item.PartnerImageURL" class="img-fluid" alt=""></div>
+                }    
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+
+    </div>
+
+</section>
+
